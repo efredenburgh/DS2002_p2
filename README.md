@@ -1,6 +1,6 @@
 # DS2002_p2
 Repository for Project 2: Capstone in Data Science Systems, Fall 2024
-Emily Fredenburgh (xux5ev)
+, Emily Fredenburgh (xux5ev)
 
 ## Database Information:
 - **Sakila** Database is a sample movie rental database
