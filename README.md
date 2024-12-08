@@ -44,3 +44,12 @@ DS2002_p2/
 ├── LICENSE.md
 └── README.md
 ```
+
+- **CLASS_REFERENCE_CODE/:** Contains the notebook from class that I referenced to complete this project.
+- **DATA/:** Contains the extracted tables from the Chinook database as either JSON files or CSV files
+- **OUTPUT/:** Contains the outputs of each SQL summarization query I ran after creating an invoice fact table.
+- **SCRIPTS/:** Contains the various scripts I wrote and ran to result in my finished project. They are divided into MySQL and DBC to note the environment each script was run in.
+
+## References:
+https://dev.mysql.com/doc/sakila/en/sakila-installation.html[Sakila Database Download]
+
