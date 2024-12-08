@@ -51,5 +51,5 @@ DS2002_p2/
 - **SCRIPTS/:** Contains the various scripts I wrote and ran to result in my finished project. They are divided into MySQL and DBC to note the environment each script was run in.
 
 ## References:
-https://dev.mysql.com/doc/sakila/en/sakila-installation.html[Sakila Database Download]
+https://dev.mysql.com/doc/sakila/en/sakila-installation.html [Sakila Database Download]
 
