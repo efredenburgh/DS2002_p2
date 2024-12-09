@@ -57,3 +57,5 @@ DS2002_p2/
 https://dev.mysql.com/doc/sakila/en/sakila-installation.html [Sakila Database Download]
 https://spark.apache.org/docs/latest/sql-data-sources-json.html [Issues with JSON file]
 https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/from_json [Issues with JSON file]
+https://www.mongodb.com/docs/languages/python/pymongo-driver/current/write/insert/
+https://www.mongodb.com/docs/languages/python/pymongo-driver/current/databases-collections/
