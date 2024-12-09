@@ -36,7 +36,8 @@ DS2002_p2/
 │
 ├── SCRIPTS/
 │   ├── DBC/
-│   │   └── 
+│       ├── Project_2_sakila.dbc
+│   │   └── Project_2_sakila.ipynb
 │   └── MySQL/
 │       ├── create&populate_tables.sql
 │       ├── create_sql.sql
