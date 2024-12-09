@@ -54,6 +54,7 @@ DS2002_p2/
 - **DATA/:** Contains the extracted tables from the Chinook database as either JSON files or CSV files
 - **OUTPUT/:** Contains the outputs of each SQL summarization query I ran after creating an invoice fact table.
 - **SCRIPTS/:** Contains the various scripts I wrote and ran to result in my finished project. They are divided into MySQL and DBC to note the environment each script was run in.
+  I included the .ipynb version of my project notebook because it is easier to view on the repository.
 
 ## References:
 https://dev.mysql.com/doc/sakila/en/sakila-installation.html [Sakila Database Download]
