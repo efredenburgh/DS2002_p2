@@ -30,6 +30,7 @@ DS2002_p2/
 │       └── dim_payment.json
 │
 ├── OUTPUT/
+│   ├── film_rentals_by_customer_gold.csv
 │   └── 
 │
 ├── SCRIPTS/
