@@ -32,7 +32,7 @@ DS2002_p2/
 ├── OUTPUT/
 │   ├── film_rentals_by_customer_gold.csv
 │   ├── monthly_rentals_by_customer_gold.csv
-│   └── 
+│   └── peak_rental_hours_gold.csv
 │
 ├── SCRIPTS/
 │   ├── DBC/
